@@ -16,3 +16,4 @@
 |------|------|------|
 | W13 | [2026-W13-report.md](reports/2026-W13-report.md) | 2026-03-25 |
 | W14 | [2026-W14-report.md](reports/2026-W14-report.md) | 2026-04-01 |
+| W41 | [2026-W41-report.md](reports/2026-W41-report.md) | 2026-10-05 |
